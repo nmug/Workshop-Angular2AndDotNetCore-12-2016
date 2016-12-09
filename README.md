@@ -25,3 +25,4 @@ Wanna watch some [introductory videos?](https://code.visualstudio.com/docs/intro
 
 We are going to use Yelp so you can benefit from getting a [Yelp developer account](https://www.yelp.com/developers?country=US) use the Get Started button and then create a new application, You will need the token and secret.
 
+Thanks!
