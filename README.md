@@ -21,6 +21,9 @@ Things to install for Saturday.
 
 7.) [TypeScipt Site](http://www.typescriptlang.org/play/index.html)
 
+8.) [Tortoise Git](https://tortoisegit.org/download/)
+
+
 Wanna watch some [introductory videos?](https://code.visualstudio.com/docs/introvideos/overview)
 
 
