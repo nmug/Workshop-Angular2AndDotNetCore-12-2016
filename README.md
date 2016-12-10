@@ -19,6 +19,7 @@ Things to install for Saturday.
 
 6.) Install [Visual Studio Community](https://www.visualstudio.com/post-download-vs/?sku=community&clcid=0x409&telem=ga) if you do not have another version of Visual Studio
 
+7.) [TypeScipt Site](http://www.typescriptlang.org/play/index.html)
 
 Wanna watch some [introductory videos?](https://code.visualstudio.com/docs/introvideos/overview)
 
@@ -28,5 +29,3 @@ We are going to use Yelp so you can benefit from getting a [Yelp developer accou
 
 Thanks 
 Brian
-
-
